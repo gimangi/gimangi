@@ -1,4 +1,4 @@
-### Hi there 👋
+### GimanGi's GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&theme=radical)
 
