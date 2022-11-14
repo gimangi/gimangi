@@ -1,20 +1,29 @@
-### GimanGi's GitHub
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,7,9,28&height=200&section=header&text=gimangi's GIthub&fontSize=90" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=khk211820)](https://solved.ac/khk211820)<br/>
 
-<!--
-**gimangi/gimangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"><b>Stacks</b></h3>
+<div align="center"> 	
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
+</div>
+<div align="center"> 	
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<center>
+  <img src = "https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gimangi&layout=compact&theme=compact&hide=c,assembly,Makefile,Shell,Perl,SmPl,Yacc,Roff&exclude_repo=Linux-System-Assignment">
+</center>
+
+
+
+
+<h3 align="center"><b>Problem Solving</b></h3>
+<div align="center">
+	<img src = "http://mazassumnida.wtf/api/generate_badge?boj=khk211820">
+</div>
