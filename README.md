@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,7,9,28&height=200&section=header&text=gimangi's GIthub&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=$waving&color=gradient&customColorList=1,3,7,9,28&height=200&section=header&text=gimangi's Github&fontSize=60)
 
-
+<br>
 
 <h3 align="center"><b>Stacks</b></h3>
 <div align="center"> 	
@@ -12,16 +12,25 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
 </div>
+<br><br>
 
 
 
-<center>
-  <img src = "https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&layout=compact">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gimangi&layout=compact&theme=compact&hide=c,assembly,Makefile,Shell,Perl,SmPl,Yacc,Roff&exclude_repo=Linux-System-Assignment">
-</center>
+<div>
+  <a href="https://github.com/essential2189/github-readme-stats">
+  	<img src = "https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&layout=compact">
+  </a>
+  <a>
+  	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gimangi&layout=compact&theme=compact&hide=c,assembly,Makefile,Shell,Perl,SmPl,Yacc,Roff&exclude_repo=Linux-System-Assignment">
+  </a>
+</div>
+
+ 
 
 
 
+
+<br>
 
 <h3 align="center"><b>Problem Solving</b></h3>
 <div align="center">
