@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
 </div>
+<br>
+
 
 
 
@@ -27,10 +29,10 @@
 
 
 
-
 <br>
 
 <h3 align="center"><b>Problem Solving</b></h3>
 <div align="center">
-	<img src = "http://mazassumnida.wtf/api/generate_badge?boj=khk211820">
+	<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=khk211820">
 </div>
+
