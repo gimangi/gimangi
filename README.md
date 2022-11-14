@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=$waving&color=gradient&customColorList=1,3,7,9,28&height=200&section=header&text=gimangi's Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=gradient&customColorList=8,2,7&height=200&section=header&text=Gimangi&fontSize=60)
 
 <br>
 
@@ -12,20 +12,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
 </div>
-<br><br>
 
 
 
 <div>
   <a href="https://github.com/essential2189/github-readme-stats">
-  	<img src = "https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&layout=compact">
+  	<img src = "https://github-readme-stats.vercel.app/api?username=gimangi&show_icons=true&layout=compact" width=50% height=50%>
   </a>
   <a>
   	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gimangi&layout=compact&theme=compact&hide=c,assembly,Makefile,Shell,Perl,SmPl,Yacc,Roff&exclude_repo=Linux-System-Assignment">
   </a>
 </div>
 
- 
 
 
 
