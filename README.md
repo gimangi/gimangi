@@ -16,6 +16,13 @@
 <br>
 
 
+<h3 align="center"><b>Problem Solving</b></h3>
+<div align="center">
+	<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=khk211820">
+</div>
+
+
+<br>
 
 
 <div>
@@ -31,8 +38,3 @@
 
 
 <br>
-
-<h3 align="center"><b>Problem Solving</b></h3>
-<div align="center">
-	<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=khk211820">
-</div>
