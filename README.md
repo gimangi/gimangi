@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=$waving&color=gradient&customColorList=8,2,7&height=200&section=header&text=Gimangi&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=gradient&customColorList=2&height=200&section=header&text=gimangi&fontSize=60&animaion=fadeIn)
 
 <br>
 
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 </div>
 <div align="center"> 	
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
@@ -35,4 +36,3 @@
 <div align="center">
 	<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=khk211820">
 </div>
-
